@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: Novo post
 date: {}
 categories: jekyll update
 published: true
